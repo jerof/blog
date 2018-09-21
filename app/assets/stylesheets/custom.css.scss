@@ -1,2 +1,37 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+footer {
+  border-top: 1px solid #eaeaea;
+}
+
+footer .small {
+  float: left;
+  padding-top: 10px;
+}
+
+footer ul li {
+  float: right;
+  list-style: none;
+  margin-left: 15px;
+}
+
+.article-actions {
+  border-top: 1px solid #EAEAEA;
+  padding-top: 5px;
+}
+
+.description {
+  margin-top: 0;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.article-body {
+  border-top: 1px solid #EAEAEA;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
